@@ -93,10 +93,12 @@ For evaluating model performance, both training and validation datasets are used
       - Training Loss
       - Validation Accuracy
       - Validation Loss
-
+      - Precision
+      - Recall
+      - F1
 ### Results
 
-The model achieved a validation accuracy of 83% and a validation loss of 36%. Additionally, it recorded a training loss of 34%.
+The model achieved a validation accuracy of 83% and a validation loss of 36%. Additionally, it recorded a training loss of 34%. Finally, it also has 76% Recall, 80% Precision, and 77.7% F1.
 
 ## Technical Specifications
 
